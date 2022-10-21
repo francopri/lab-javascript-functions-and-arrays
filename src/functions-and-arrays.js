@@ -320,7 +320,7 @@ const matrix = [
     48,
   ],
 ];
-
+ 
 function greatestProduct() { }
 
 // The following is required to make unit tests work.
